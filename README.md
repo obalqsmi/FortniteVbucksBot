@@ -2,11 +2,15 @@
 
 A fast, clean Discord bot starter template designed for automation around Fortnite-related utilities.
 
-<p align= "left"> <kbd> <img  src="https://i.imgur.com/lPxcrxj.png"width="420"> </kbd><br><br>
-<p align= "right"> <kbd> <img  src="https://i.imgur.com/OfQXntF.png"width="420"> </kbd><br><br>
-<p align= "left"> <kbd> <img  src="https://i.imgur.com/WRvcKEJ.png"width="420"> </kbd><br><br>
-<p align= "right"> <kbd> <img  src="https://i.imgur.com/JkimlAU.png"width="420"> </kbd><br><br>
+<p align="center">
+  <img src="https://i.imgur.com/lPxcrxj.png" width="45%"/>
+  <img src="https://i.imgur.com/OfQXntF.png" width="45%"/>
+</p>
 
+<p align="center">
+  <img src="https://i.imgur.com/WRvcKEJ.png" width="45%"/>
+  <img src="https://i.imgur.com/JkimlAU.png" width="45%"/>
+</p>
 ---
 
 ## 🚀 Bot Starter Guide
