@@ -2,6 +2,11 @@
 
 A fast, clean Discord bot starter template designed for automation around Fortnite-related utilities.
 
+<p align= "left"> <kbd> <img  src="https://ibb.co/h1FKfB4b"width="420"> </kbd><br><br>
+<p align= "right"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+<p align= "left"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+<p align= "right"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+
 ---
 
 ## 🚀 Bot Starter Guide
