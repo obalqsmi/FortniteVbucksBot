@@ -4,13 +4,14 @@ A fast, clean Discord bot starter template designed for automation around Fortni
 
 <p align="center">
   <img src="https://i.imgur.com/lPxcrxj.png" width="45%"/>
-  <img src="https://i.imgur.com/OfQXntF.png" width="45%"/>
+  <img src="https://i.imgur.com/WRvcKEJ.png" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/WRvcKEJ.png" width="45%"/>
+  <img src="https://i.imgur.com/OfQXntF.png" width="45%"/>
   <img src="https://i.imgur.com/JkimlAU.png" width="45%"/>
 </p>
+
 ---
 
 ## 🚀 Bot Starter Guide
